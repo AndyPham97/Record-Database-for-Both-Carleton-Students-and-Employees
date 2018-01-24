@@ -28,7 +28,7 @@ It will show you a menu in the format below:
 1. Print all employees
 2. Print all students
 3. Search students using Family Name
-4. Summary of Data\n
+4. Summary of Data
 0. Quit
 
 Enter in a number (1,2,3,4,0): 
