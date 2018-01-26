@@ -1,9 +1,8 @@
-# COMP2401---Assignment-3
 The purpose of this software is to populate several records of people from Carleton University and gives you the options to either print out all the
 current employees and students records, search for a student by their last name and print out the matching student(s) record(s) and print out the summary
 of each stat for students and employees, and the total records the university holds
 
-The developer is Andy Pham, student ID# 101006098 and the development date started on November 4th
+The developer is Andy Pham and the development date started on November 4th
 
 The main file is ran on uni.c, other files containing the function definitions from the header files
  are student.c, employee.c, and populateRecords.c, the header files are student.h, employee.h, 
